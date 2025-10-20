@@ -1,4 +1,4 @@
-# Kerim David — iOS & Web Developer 👋
+# Kerim David — iOS & Web Developer 👋   (⌐■_■)
 
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer (React, Firebase)**  
 Building production apps with elegant UX, reliable real-time systems, and payment flows that just work.
