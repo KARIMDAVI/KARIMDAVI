@@ -72,7 +72,7 @@ I design and build iOS apps and companion web dashboards that scale. I focus on 
 **Web (Admin dashboard)**  
 ```bash
 # from repository root
-cd web-dashboard
+cd web-admin
 npm install
 # create .env.local with FIREBASE config and API keys
 npm run dev
