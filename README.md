@@ -27,10 +27,15 @@ I design and build iOS apps and companion web dashboards that scale. I focus on 
 ---
 
 ## Featured Projects (click to open)
-- **SaviPets** — Role-based pet-sitting platform: real-time GPS tracking, Stripe/Apple Pay, Firebase chat, visit timers. [Repo →](https://github.com/your/saviesawalks) • [Demo →](#)  
-- **AI Chat Companion** — Cross-platform assistant with contextual memory and personality settings. [Repo →](https://github.com/your/aichat)  
-- **Tap-to-Dodge** — Mobile arcade game prototype (monetized; simple 30–90s runs). [Repo →](https://github.com/your/taptododge)
-- **MeloMo** — Music Based on your mood. [Repo →](https://github.com/your/taptododge)
+- **SaviPets** — Multi-platform, role-based pet-sitting platform with real-time GPS tracking, Stripe/Apple Pay, Firebase chat, and visit timers.  
+  [iOS Repo →](https://github.com/KARIMDAVI/savipets-ios) • [Android Repo →](https://github.com/KARIMDAVI/savipets-android) • [Web Admin Repo →](https://github.com/KARIMDAVI/savipets-web-admin)
+
+- **AI Chat Companion** — Cross-platform assistant with contextual memory and configurable personality settings, designed for fast, on-device-friendly interactions.
+
+- **Tap-to-Dodge** — Mobile arcade game prototype with short 30–90s runs and lightweight monetization focused on quick, replayable sessions.
+
+- **MeloMo** — Music app with built-in AI features that create playlists based on the user’s mood.  
+  [Repo →](https://github.com/KARIMDAVI/MeloMo)
 
 ---
 
