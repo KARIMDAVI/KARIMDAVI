@@ -7,12 +7,11 @@ Building production apps with elegant UX, reliable real-time systems, and paymen
 ---
 
 <!-- Hero image / demo -->
-[![Hero demo](./assets/hero-demo.gif)](https://github.com/KerimDavid)
-
+[![Hero demo](./assets/hero-demo.gif)](https://github.com/KARIMDAVI)
 ---
 
 ## Quick Pitch
-I design and build iOS apps and companion web dashboards that scale. I focus on **SwiftUI-first experiences**, real-time features (Firebase), and secure payments (Stripe, Apple Pay). If you want a polished app with reliable realtime behavior and delightful UX, I’m the engineer you hire.
+I design and build iOS apps and companion web dashboards that scale. I focus on **SwiftUI-first experiences**, real-time features (Firebase), and secure payments (Stripe, Apple Pay). If you want a polished app with reliable real-time behavior and delightful UX, I’m the engineer you hire.
 
 ---
 
@@ -22,7 +21,7 @@ I design and build iOS apps and companion web dashboards that scale. I focus on 
 - **Web:** React, Tailwind CSS, Next.js / Vite  
 - **Backend & Infra:** Firebase (Auth, Firestore, Functions, Messaging), Node.js, Express  
 - **Payments & Monetization:** Stripe, Apple Pay, Square (Tap-to-Pay)  
-- **Tools:** Xcode, Firebase CLI, GitHub Actions, Cursor, Postman
+- **Tools:** Xcode, Firebase CLI, GitHub Actions, Fastlane, testflight
 
 ---
 
@@ -40,17 +39,17 @@ I design and build iOS apps and companion web dashboards that scale. I focus on 
 ---
 
 ## Case study — SaviPets
-- **Problem:** Pet owners needed a reliable, trustable service with real-time sitter locations and instant receipts.  
-- **My approach:** Built a SwiftUI iOS app + React admin dashboard. Real-time updates via Firestore, visit tracking via CoreLocation, payments with Stripe & Apple Pay, and photo/reporting for each visit.  
+- **Problem:** Pet owners needed a reliable, trustworthy service with real-time sitter locations and instant receipts.
+- **My approach:** Built a SwiftUI iOS app and React web admin dashboard. Implemented real-time updates via Firestore, visit tracking via CoreLocation, payments with Stripe & Apple Pay, and photo/reporting for each visit.   
 - **Outcome:** Improved client trust with live tracking and receipts; easier operations for sitters through a focused dashboard and automated billing.
 
 ---
 
 ## How I work (for clients)
 1. **Discovery & scope** — define MVP, success metrics, and milestones.  
-2. **Design → Build** — rapid prototyping (Figma), SwiftUI-first iOS implementation, React web admin.  
+2. **Design → Build** — rapid prototyping (Figma), SwiftUI-first iOS implementation, React web admin dashboard.  
 3. **Secure Payments** — integrate Stripe + Apple Pay with server-side verification (payment intents).  
-4. **Realtime & reliability** — use Firestore snapshots, batched writes, and offline-friendly patterns.  
+4. **Real-time & reliability** — use Firestore snapshots, batched writes, and offline-friendly patterns.  
 5. **Delivery & maintenance** — CI, staging previews, tests, and handover docs.
 
 ---
