@@ -22,7 +22,7 @@ Convert short ideas into production-ready prompts for Image, Chat, Code, Blog, a
 - Local-first privacy mode; optional secure backend pattern
 Tech: Vanilla JS / TypeScript-ready, accessible UI, PWA-friendly
 
-See: /projects/iprompt (or link to repo)
+See: [/projects/iprompt](https://codepen.io/KARIMDAVI/pen/ZYOyXbo) 
 
 ---
 
@@ -34,7 +34,7 @@ A polished browser-first casual game focusing on short, repeatable sessions and 
 - Enterprise-ready: tests, CI, performance targets, accessibility
 Tech: TypeScript + HTML5 Canvas (or Phaser/PixiJS), Vite, IndexedDB
 
-See: /projects/ocean-arcade (or link to repo)
+See: [/projects/ocean-arcade (or link to repo)](https://codepen.io/KARIMDAVI/pen/gbMRxwy)
 
 ---
 
