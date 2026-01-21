@@ -1,5 +1,7 @@
 # Karim A. — iOS & Web Developer 👋   (⌐■_■)
 
+P.S: I really enjoy working on open-source code.
+
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer (React, Firebase)**  
 Building production apps with elegant UX, reliable real-time systems, and payment flows that just work.
 
@@ -8,6 +10,32 @@ Building production apps with elegant UX, reliable real-time systems, and paymen
 
 <!-- Hero image / demo -->
 [![Hero demo](./assets/hero-demo.gif)](https://github.com/KARIMDAVI)
+---
+## Side Projects
+
+### iPrompt — Professional Prompt Generator
+Convert short ideas into production-ready prompts for Image, Chat, Code, Blog, and Marketing. Enterprise-friendly features:
+- Goal-specific templates (image/chat/code/blog/marketing)
+- Model-aware presets (Midjourney / ChatGPT / Claude)
+- Reproducible image generation (seed, params, JSON-META)
+- Multi-seed sampling for image presets + history/export
+- Local-first privacy mode; optional secure backend pattern
+Tech: Vanilla JS / TypeScript-ready, accessible UI, PWA-friendly
+
+See: /projects/iprompt (or link to repo)
+
+---
+
+### Ocean Arcade — Fish Game
+A polished browser-first casual game focusing on short, repeatable sessions and strong micro-interactions:
+- Feeding mechanics, fish AI (seek/wander), scoring & progression
+- Offline-first persistence (IndexedDB), PWA support
+- Optional leaderboards & analytics (opt-in)
+- Enterprise-ready: tests, CI, performance targets, accessibility
+Tech: TypeScript + HTML5 Canvas (or Phaser/PixiJS), Vite, IndexedDB
+
+See: /projects/ocean-arcade (or link to repo)
+
 ---
 
 ## Quick Pitch
