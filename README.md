@@ -34,7 +34,7 @@ A polished browser-first casual game focusing on short, repeatable sessions and 
 - Enterprise-ready: tests, CI, performance targets, accessibility
 Tech: TypeScript + HTML5 Canvas (or Phaser/PixiJS), Vite, IndexedDB
 
-See: [/projects/ocean-arcade (or link to repo)](https://codepen.io/KARIMDAVI/pen/gbMRxwy)
+See: [/projects/ocean-arcade](https://codepen.io/KARIMDAVI/pen/gbMRxwy)
 
 ---
 
