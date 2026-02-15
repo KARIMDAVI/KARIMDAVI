@@ -1,6 +1,6 @@
-# Karim A. — iOS & Web Developer 👋   (⌐■_■)
-
 <div align="center">
+
+# Karim A. — iOS & Web Developer 👋   (⌐■_■)
   
 ![K!MO](./kimo.svg)
 
