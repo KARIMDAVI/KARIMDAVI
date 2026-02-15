@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![K!MO](./Assets/kimo.svg)
+![K!MO](./kimo.svg)
 
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer**
 
