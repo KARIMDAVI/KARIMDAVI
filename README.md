@@ -16,8 +16,6 @@ Building production apps with elegant UX, reliable real-time systems, and paymen
   </svg>
 </div>
 
-
-
 ---
 
 ## Side Projects
