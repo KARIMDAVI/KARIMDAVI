@@ -2,17 +2,91 @@
 
 <div align="center">
   
-![K!MO](./kimo.svg)
+![K!MO](./Assets/kimo.svg)
 
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimalsayed)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://ka.budgo.net)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KARIMDAVI&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Open to Work](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=flat-square)](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share)
+[![Response Time](https://img.shields.io/badge/Response%20Time-Under%202h-brightgreen?style=flat-square)]()
+
 </div>
+
+---
+
+<div align="center">
+
+### 🚀 Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARIMDAVI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARIMDAVI&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARIMDAVI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Professional Highlights
+
+| 🎯 Focus Area | 📊 Experience | 🏆 Projects Delivered |
+|:-------------:|:-------------:|:---------------------:|
+| iOS & SwiftUI | 5+ Years | 20+ Apps |
+| React & Web | 4+ Years | 30+ Websites |
+| Firebase & Backend | 4+ Years | 25+ Integrations |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Mobile Development**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Database**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Payments & Tools**
+
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Apple Pay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=apple-pay&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
 
 P.S: I really enjoy working on open-source code.
 
 Building production apps with elegant UX, reliable real-time systems, and payment flows that just work.
-
-[LinkedIn — Karim A.](https://www.linkedin.com/in/karimalsayed) • [Hire me on Upwork](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share) • [Resume](https://ka.budgo.net)
 
 ---
 
