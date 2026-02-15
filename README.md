@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![K!MO](./Assets/kimo.svg)
+![K!MO](./kimo.svg)
 
 **iOS-first Engineer • SwiftUI Specialist • Full-Stack Web Developer**
 
@@ -13,34 +13,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KARIMDAVI&color=blueviolet&style=flat-square&label=Profile+Views)
 [![Open to Work](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=flat-square)](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share)
 [![Response Time](https://img.shields.io/badge/Response%20Time-Under%202h-brightgreen?style=flat-square)]()
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARIMDAVI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARIMDAVI&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARIMDAVI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Professional Highlights
-
-| 🎯 Focus Area | 📊 Experience | 🏆 Projects Delivered |
-|:-------------:|:-------------:|:---------------------:|
-| iOS & SwiftUI | 5+ Years | 20+ Apps |
-| React & Web | 4+ Years | 30+ Websites |
-| Firebase & Backend | 4+ Years | 25+ Integrations |
 
 </div>
 
