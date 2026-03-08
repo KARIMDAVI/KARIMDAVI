@@ -6,7 +6,7 @@
 
 ### iOS & Web Developer · SwiftUI Specialist · Full-Stack Engineer
 
-*Building polished iOS apps and companion web systems — real-time, payments, and all the tricky bits.*
+*Building polished iOS apps and companion web systems - real-time, payments, and all the tricky bits.*
 
 <br/>
 
