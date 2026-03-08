@@ -73,7 +73,7 @@ I'm an iOS-first engineer who loves the intersection of elegant mobile UX and re
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,6 +89,7 @@ I'm an iOS-first engineer who loves the intersection of elegant mobile UX and re
 </div>
 
 ---
+-->
 
 ## 🚀 Featured Projects
 
