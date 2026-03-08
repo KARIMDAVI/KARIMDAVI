@@ -98,10 +98,13 @@ I'm an iOS-first engineer who loves the intersection of elegant mobile UX and re
 | 🤖 **AI Chat Companion** | Cross-platform assistant with contextual memory and configurable personality, optimised for on-device speed | — |
 | 🎮 **Tap-to-Dodge** | Mobile arcade prototype — 30–90 s runs, lightweight monetisation, replayable sessions | — |
 | 🎵 **MeloMo** | AI-powered music app that builds playlists from your current mood | [Repo →](https://github.com/KARIMDAVI/MeloMo) |
+| 🌐 **BudGo** | iOS/Web Dev Agency site — clean landing page and service showcase | [Repo →](https://github.com/KARIMDAVI/budgo.net) |
+| 🚀 **Space Racer** | Avoid obstacles and win the race — fast-paced browser game | [Repo →](https://github.com/KARIMDAVI/space-racer) |
+| 🛸 **Space Rocket** | Avoid hitting obstacles in space and survive as long as possible! | [Repo →](https://github.com/KARIMDAVI/space-rocket-v1) |
 
 ---
 
-## 🧪 Side Projects
+## 🧪 Side Projects & CodePen
 
 <details>
 <summary><strong>✍️ iPrompt — Professional Prompt Generator</strong></summary>
@@ -133,6 +136,83 @@ A polished browser-first casual game built for short, repeatable sessions and st
 **Tech:** TypeScript · HTML5 Canvas · Vite · IndexedDB
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/gbMRxwy)
+
+</details>
+
+<details>
+<summary><strong>🎓 PennState Card — PSU Student Card</strong></summary>
+
+A stylised digital student card UI for Penn State, built with pure CSS.
+
+**Tech:** CSS · HTML
+
+▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/psu-student-card) · [Repo →](https://github.com/KARIMDAVI/psu.student.card)
+
+</details>
+
+<details>
+<summary><strong>🔮 Magic Ball — 8-Ball Fortune Teller</strong></summary>
+
+A fun interactive Magic 8-Ball built for the browser.
+
+**Tech:** JavaScript · HTML · CSS
+
+▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/magic-ball)
+
+</details>
+
+<details>
+<summary><strong>🌐 BudGo — Agency Landing Page</strong></summary>
+
+Clean, modern landing page for an iOS/Web dev agency.
+
+**Tech:** TypeScript · HTML · CSS
+
+▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/budgo) · [Repo →](https://github.com/KARIMDAVI/budgo.net)
+
+</details>
+
+<details>
+<summary><strong>👤 K!MO — Personal Brand Page</strong></summary>
+
+Minimal personal brand / profile page.
+
+**Tech:** HTML · CSS · JavaScript
+
+▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/kimo)
+
+</details>
+
+<details>
+<summary><strong>🌀 Portal T-137 — Creative Animation</strong></summary>
+
+Animated portal effect experiment built entirely in CSS/JS.
+
+**Tech:** HTML · CSS · JavaScript
+
+▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/portal-t-137)
+
+</details>
+
+<details>
+<summary><strong>💻 Code Elements — UI Component Showcase</strong></summary>
+
+A collection of interactive UI/code design elements and experiments.
+
+**Tech:** HTML · CSS · JavaScript
+
+▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/code-elements) · [Repo →](https://github.com/KARIMDAVI/Creative-Web-Design)
+
+</details>
+
+<details>
+<summary><strong>🌤️ Weather App — UI/UX Design</strong></summary>
+
+A polished weather application UI/UX concept.
+
+**Tech:** HTML · CSS
+
+▶ [Repo →](https://github.com/KARIMDAVI/weatherappdesignuiux)
 
 </details>
 
