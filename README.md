@@ -243,11 +243,7 @@ A polished weather application UI/UX concept.
 
 ## ✅ Why Hire Me
 
-- 🍎 **iOS-first** with battle-tested companion web systems
-- ⚡ **Real-time expertise** — Firestore, live tracking, instant updates
-- 💳 **Payments** — Stripe, Apple Pay, Square (Tap-to-Pay), server-side verification
-- 🎯 **Product clarity** — clean UX, measurable outcomes, no over-engineering
-- 📦 **Solid delivery** — on schedule, well-tested, documented handoff, no drama
+I Don't know... AI can do what i do now xD 
 
 ---
 
@@ -293,6 +289,6 @@ npm run dev
 [![Upwork](https://img.shields.io/badge/Upwork-Book%20a%20Session-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ka.budgo.net-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://ka.budgo.net)
 
-*Response time: under 2 hours* ⚡
+ ⚡
 
 </div>
