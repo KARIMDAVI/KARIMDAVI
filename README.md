@@ -239,11 +239,6 @@ A polished weather application UI/UX concept.
 5. Delivery            →  CI pipelines, staging previews, tests, and clean handover docs
 ```
 
----
-
-## ✅ Why Hire Me
-
-I Don't know... AI can do what i do now xD 
 
 ---
 
