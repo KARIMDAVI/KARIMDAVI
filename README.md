@@ -6,7 +6,7 @@
 
 ### iOS & Web Developer · SwiftUI Specialist · Full-Stack Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=500&lines=SwiftUI+%2B+Firebase+%2B+Stripe+%E2%80%94+shipped.;Real-time+GPS%2C+payments%2C+live+chat+%E2%80%94+done+it.;iOS-first.+Full-stack+when+needed.;Clean+code%2C+clean+handoffs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=480&lines=SwiftUI+%2B+Firebase+%2B+Stripe+%E2%80%94+shipped.;Real-time+GPS+%26+payments+%E2%80%94+done+it.;iOS-first.+Full-stack+when+needed.;Clean+code%2C+clean+handoffs.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,17 +24,16 @@
 
 ## 👋 About Me
 
-iOS-first engineer. I ship production-ready apps — SwiftUI on the front, Firestore keeping everything in sync, Stripe and Apple Pay handling the money. Clean code, proper docs, and a handoff you can actually work with.
+iOS-first engineer who ships production-ready apps and knows when to stop adding features. SwiftUI up front, Firestore keeping everything live, Stripe and Apple Pay handling the money — and a handoff that doesn't leave the next person confused.
 
-I've built real-time GPS tracking, visit-timer workflows, and payment flows that go through Apple's review without a hitch. When a project needs a web admin dashboard or a backend function, I build that too — React + Firebase Functions get the job done without overcomplicating the stack.
-
-- 🍎 **iOS-first:** SwiftUI · Combine · CoreLocation · CoreML
-- 🌐 **Web companion:** React · TypeScript · Next.js · Tailwind
-- 💳 **Payments:** Stripe · Apple Pay · Square Tap-to-Pay
-- 🔥 **Backend:** Firebase (Auth · Firestore · Functions · Messaging) · Node.js · Express
-- 🤝 Open-source enthusiast — I genuinely enjoy contributing
+I've built real-time GPS tracking for pet-sitters, payment flows that sail through App Store review, and live chat that actually stays in sync. When a project needs a web admin or a backend function, I build that too — no overcomplicated stack, no mystery dependencies.
 
 > *Straightforward, on time, proper job done.*
+
+🔭 **Currently building:** AI Chat Companion · Tap-to-Dodge arcade prototype  
+🌱 **Currently learning:** CoreML on-device inference · SwiftData  
+💬 **Ask me about:** SwiftUI architecture · Stripe integrations · Firebase real-time patterns  
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/karimalsayed) · [Upwork](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share)
 
 ---
 
@@ -94,15 +93,14 @@ I've built real-time GPS tracking, visit-timer workflows, and payment flows that
 
 ## 🚀 Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| 🐾 **SaviPets** | Multi-platform pet-sitting platform — real-time GPS tracking, Stripe/Apple Pay, Firebase live chat, per-visit photo reports | [iOS](https://github.com/KARIMDAVI/savipets-ios) · [Android](https://github.com/KARIMDAVI/savipets-android) · [Web Admin](https://github.com/KARIMDAVI/savipets-web-admin) |
-| 🤖 **AI Chat Companion** | Cross-platform assistant with contextual memory and configurable personality, optimised for on-device speed | — |
-| 🎮 **Tap-to-Dodge** | Mobile arcade prototype — 30–90 s sessions, lightweight monetisation, highly replayable | — |
-| 🎵 **MeloMo** | AI-powered music app that builds playlists from your current mood | [Repo →](https://github.com/KARIMDAVI/MeloMo) |
-| 🌐 **BudGo** | iOS/Web dev agency site — clean landing page and service showcase | [Repo →](https://github.com/KARIMDAVI/budgo.net) |
-| 🚀 **Space Racer** | Avoid obstacles and win the race — fast-paced browser game | [Repo →](https://github.com/KARIMDAVI/space-racer) |
-| 🛸 **Space Rocket** | Survive as long as possible dodging obstacles in space | [Repo →](https://github.com/KARIMDAVI/space-rocket-v1) |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🐾 **[SaviPets](https://github.com/KARIMDAVI/savipets-ios)** | SwiftUI · Firebase · Stripe | Multi-platform pet-sitting app — real-time GPS, Apple Pay, live chat, per-visit photo reports · [Android](https://github.com/KARIMDAVI/savipets-android) · [Web Admin](https://github.com/KARIMDAVI/savipets-web-admin) |
+| 🤖 **AI Chat Companion** | Swift · CoreML · OpenAI | Cross-platform assistant with contextual memory and configurable personality, optimised for on-device speed |
+| 🎮 **Tap-to-Dodge** | SwiftUI · SpriteKit | Mobile arcade — 30–90 s sessions, lightweight monetisation, highly replayable |
+| 🎵 **[MeloMo](https://github.com/KARIMDAVI/MeloMo)** | React · TypeScript · AI | Builds playlists from your current mood |
+| 🌐 **[BudGo](https://github.com/KARIMDAVI/budgo.net)** | Next.js · Tailwind | iOS/Web dev agency site |
+| 🚀 **[Space Racer](https://github.com/KARIMDAVI/space-racer)** | JS · Canvas | Fast-paced browser game |
 
 ---
 
@@ -110,40 +108,35 @@ I've built real-time GPS tracking, visit-timer workflows, and payment flows that
 
 | | |
 |---|---|
-| **Problem** | Pet owners needed a trustworthy, verifiable service — they wanted to see where their sitter was and receive instant proof of each visit. |
-| **Solution** | SwiftUI iOS app + React web admin. Live location via CoreLocation pushed to Firestore, per-visit photo reports, Stripe/Apple Pay checkout with server-side intent verification. |
-| **Result** | Higher client trust through transparent tracking and automated receipts. Sitters spend less time on admin — billing and visit logs handled automatically. |
+| **Problem** | Pet owners wanted proof their sitter showed up — live location and visit receipts, not just a confirmation text. |
+| **Solution** | SwiftUI iOS app + React web admin. CoreLocation → Firestore for live tracking, per-visit photo reports, Stripe/Apple Pay with server-side intent verification. |
+| **Result** | Higher client trust through transparent tracking. Sitters spend less time on admin — billing and visit logs handled automatically. |
 
 ---
 
 ## 💼 How I Work
 
-```
-1. Discovery & scope   →  Define MVP, success metrics, and milestones upfront
-2. Design → Build      →  Figma prototyping, SwiftUI-first iOS, React web admin
-3. Payments            →  Stripe + Apple Pay with server-side intent verification
-4. Real-time           →  Firestore snapshots, batched writes, offline-friendly patterns
-5. Delivery            →  CI pipelines, staging previews, tests, and clean handover docs
-```
+1. **Discovery** — Define MVP, success metrics, and milestones before a line is written
+2. **Design → Build** — Figma prototype, SwiftUI-first iOS, React web admin when needed
+3. **Payments** — Stripe + Apple Pay with server-side intent verification, tested in sandbox
+4. **Real-time** — Firestore snapshots, batched writes, offline-friendly from day one
+5. **Delivery** — CI pipeline, staging preview, test suite, and handover docs you can actually use
 
-No scope creep, no ghost comms, no "I'll figure it out as I go." If something changes mid-project, I flag it early.
+No scope creep, no ghost comms. If something changes mid-project, I flag it early — not after.
 
 ---
 
-## 🧪 Side Projects & CodePen
+## 🧪 Side Projects & Experiments
 
 <details>
 <summary><strong>✍️ iPrompt — Professional Prompt Generator</strong></summary>
 
 Convert short ideas into production-ready prompts for Image, Chat, Code, Blog, and Marketing.
 
-- Goal-specific templates (image / chat / code / blog / marketing)
-- Model-aware presets (Midjourney / ChatGPT / Claude)
-- Reproducible image generation (seed, params, JSON-META)
-- Multi-seed sampling + history / export
-- Local-first privacy mode; optional secure backend pattern
+- Goal-specific templates · Model-aware presets (Midjourney / ChatGPT / Claude)
+- Reproducible image generation (seed, params, JSON-META) · Local-first privacy mode
 
-**Tech:** Vanilla JS / TypeScript-ready · Accessible UI · PWA-friendly
+**Tech:** Vanilla JS · TypeScript-ready · PWA-friendly
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/ZYOyXbo)
 
@@ -152,78 +145,21 @@ Convert short ideas into production-ready prompts for Image, Chat, Code, Blog, a
 <details>
 <summary><strong>🐠 Ocean Arcade — Fish Game</strong></summary>
 
-A polished browser-first casual game built for short, repeatable sessions and strong micro-interactions.
+Browser-first casual game — fish AI (seek / wander), feeding mechanics, scoring, IndexedDB persistence.
 
-- Feeding mechanics, fish AI (seek / wander), scoring & progression
-- Offline-first persistence (IndexedDB), PWA support
-- Optional leaderboards & analytics (opt-in)
-
-**Tech:** TypeScript · HTML5 Canvas · Vite · IndexedDB
+**Tech:** TypeScript · HTML5 Canvas · Vite
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/gbMRxwy)
 
 </details>
 
 <details>
-<summary><strong>🎓 PennState Card — PSU Student Card</strong></summary>
+<summary><strong>🎓 PennState Card · 🔮 Magic Ball · 🌀 Portal T-137 · 💻 Code Elements · 🌤️ Weather App</strong></summary>
 
-Stylised digital student card UI for Penn State, built in pure CSS.
+A collection of UI experiments, CSS studies, and creative browser builds.
 
-▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/psu-student-card) · [Repo →](https://github.com/KARIMDAVI/psu.student.card)
-
-</details>
-
-<details>
-<summary><strong>🔮 Magic Ball — 8-Ball Fortune Teller</strong></summary>
-
-Interactive Magic 8-Ball for the browser.
-
-▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/magic-ball)
-
-</details>
-
-<details>
-<summary><strong>🌐 BudGo — Agency Landing Page</strong></summary>
-
-Clean, modern landing page for an iOS/Web dev agency.
-
-▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/budgo) · [Repo →](https://github.com/KARIMDAVI/budgo.net)
-
-</details>
-
-<details>
-<summary><strong>👤 K!MO — Personal Brand Page</strong></summary>
-
-Minimal personal brand / profile page.
-
-▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/kimo)
-
-</details>
-
-<details>
-<summary><strong>🌀 Portal T-137 — Creative Animation</strong></summary>
-
-Animated portal effect experiment built entirely in CSS/JS.
-
-▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/portal-t-137)
-
-</details>
-
-<details>
-<summary><strong>💻 Code Elements — UI Component Showcase</strong></summary>
-
-Interactive UI/code design elements and experiments.
-
-▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/code-elements) · [Repo →](https://github.com/KARIMDAVI/Creative-Web-Design)
-
-</details>
-
-<details>
-<summary><strong>🌤️ Weather App — UI/UX Design</strong></summary>
-
-Polished weather application UI/UX concept.
-
-▶ [Repo →](https://github.com/KARIMDAVI/weatherappdesignuiux)
+- [PSU Student Card](https://codepen.io/KARIMDAVI/pen/psu-student-card) · [Magic 8-Ball](https://codepen.io/KARIMDAVI/pen/magic-ball) · [Portal T-137](https://codepen.io/KARIMDAVI/pen/portal-t-137)
+- [Code Elements](https://codepen.io/KARIMDAVI/pen/code-elements) · [K!MO Brand Page](https://codepen.io/KARIMDAVI/pen/kimo) · [Weather App](https://github.com/KARIMDAVI/weatherappdesignuiux)
 
 </details>
 
@@ -242,23 +178,29 @@ Polished weather application UI/UX concept.
 
 ---
 
-## ⚡ Developer Quick-Start
+## ⚡ Quick-Start
 
-**iOS (SaviPets demo)**
+<details>
+<summary><strong>iOS — SaviPets</strong></summary>
 
-1. Open `SaviPets.xcodeproj` in Xcode 14+.
-2. Add your sandbox `GoogleService-Info.plist` (Firebase dev config).
-3. Use a real device for Apple Pay / CoreLocation features.
-4. Press `Cmd + R`.
+1. Open `SaviPets.xcodeproj` in Xcode 14+
+2. Add your sandbox `GoogleService-Info.plist`
+3. Use a real device for Apple Pay / CoreLocation
+4. `Cmd + R`
 
-**Web (Admin dashboard)**
+</details>
+
+<details>
+<summary><strong>Web — Admin Dashboard</strong></summary>
 
 ```bash
 cd web-admin
 npm install
-# create .env.local with your Firebase config and API keys
+# .env.local → Firebase config + API keys
 npm run dev
 ```
+
+</details>
 
 ---
 
