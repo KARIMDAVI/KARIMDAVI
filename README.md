@@ -6,7 +6,7 @@
 
 ### iOS & Web Developer · SwiftUI Specialist · Full-Stack Engineer
 
-*Building polished iOS apps and companion web systems - real-time, payments, and all the tricky bits.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FDA44&center=true&vCenter=true&width=500&lines=SwiftUI+%2B+Firebase+%2B+Stripe+%E2%80%94+shipped.;Real-time+GPS%2C+payments%2C+live+chat+%E2%80%94+done+it.;iOS-first.+Full-stack+when+needed.;Clean+code%2C+clean+handoffs.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,12 +24,14 @@
 
 ## 👋 About Me
 
-I'm an iOS-first engineer who loves the intersection of elegant mobile UX and reliable backend systems. I ship production-ready apps — SwiftUI on the front, Firestore in real-time, Stripe handling the money, all wrapped up with clean code and a tidy handoff.
+iOS-first engineer. I ship production-ready apps — SwiftUI on the front, Firestore keeping everything in sync, Stripe and Apple Pay handling the money. Clean code, proper docs, and a handoff you can actually work with.
 
-- 🍎 **iOS-first:** SwiftUI, Combine, CoreLocation, CoreML
-- 🌐 **Web companion:** React, TypeScript, Next.js, Tailwind
-- 💳 **Payments:** Stripe, Apple Pay, Square Tap-to-Pay
-- 🔥 **Backend:** Firebase (Auth, Firestore, Functions, Messaging), Node.js, Express
+I've built real-time GPS tracking, visit-timer workflows, and payment flows that go through Apple's review without a hitch. When a project needs a web admin dashboard or a backend function, I build that too — React + Firebase Functions get the job done without overcomplicating the stack.
+
+- 🍎 **iOS-first:** SwiftUI · Combine · CoreLocation · CoreML
+- 🌐 **Web companion:** React · TypeScript · Next.js · Tailwind
+- 💳 **Payments:** Stripe · Apple Pay · Square Tap-to-Pay
+- 🔥 **Backend:** Firebase (Auth · Firestore · Functions · Messaging) · Node.js · Express
 - 🤝 Open-source enthusiast — I genuinely enjoy contributing
 
 > *Straightforward, on time, proper job done.*
@@ -73,7 +75,7 @@ I'm an iOS-first engineer who loves the intersection of elegant mobile UX and re
 </div>
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,19 +91,42 @@ I'm an iOS-first engineer who loves the intersection of elegant mobile UX and re
 </div>
 
 ---
--->
 
 ## 🚀 Featured Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🐾 **SaviPets** | Multi-platform pet-sitting platform — real-time GPS, Stripe/Apple Pay, Firebase chat, visit timers | [iOS](https://github.com/KARIMDAVI/savipets-ios) · [Android](https://github.com/KARIMDAVI/savipets-android) · [Web Admin](https://github.com/KARIMDAVI/savipets-web-admin) |
+| 🐾 **SaviPets** | Multi-platform pet-sitting platform — real-time GPS tracking, Stripe/Apple Pay, Firebase live chat, per-visit photo reports | [iOS](https://github.com/KARIMDAVI/savipets-ios) · [Android](https://github.com/KARIMDAVI/savipets-android) · [Web Admin](https://github.com/KARIMDAVI/savipets-web-admin) |
 | 🤖 **AI Chat Companion** | Cross-platform assistant with contextual memory and configurable personality, optimised for on-device speed | — |
-| 🎮 **Tap-to-Dodge** | Mobile arcade prototype — 30–90 s runs, lightweight monetisation, replayable sessions | — |
+| 🎮 **Tap-to-Dodge** | Mobile arcade prototype — 30–90 s sessions, lightweight monetisation, highly replayable | — |
 | 🎵 **MeloMo** | AI-powered music app that builds playlists from your current mood | [Repo →](https://github.com/KARIMDAVI/MeloMo) |
-| 🌐 **BudGo** | iOS/Web Dev Agency site — clean landing page and service showcase | [Repo →](https://github.com/KARIMDAVI/budgo.net) |
+| 🌐 **BudGo** | iOS/Web dev agency site — clean landing page and service showcase | [Repo →](https://github.com/KARIMDAVI/budgo.net) |
 | 🚀 **Space Racer** | Avoid obstacles and win the race — fast-paced browser game | [Repo →](https://github.com/KARIMDAVI/space-racer) |
-| 🛸 **Space Rocket** | Avoid hitting obstacles in space and survive as long as possible! | [Repo →](https://github.com/KARIMDAVI/space-rocket-v1) |
+| 🛸 **Space Rocket** | Survive as long as possible dodging obstacles in space | [Repo →](https://github.com/KARIMDAVI/space-rocket-v1) |
+
+---
+
+## 🔍 Case Study — SaviPets
+
+| | |
+|---|---|
+| **Problem** | Pet owners needed a trustworthy, verifiable service — they wanted to see where their sitter was and receive instant proof of each visit. |
+| **Solution** | SwiftUI iOS app + React web admin. Live location via CoreLocation pushed to Firestore, per-visit photo reports, Stripe/Apple Pay checkout with server-side intent verification. |
+| **Result** | Higher client trust through transparent tracking and automated receipts. Sitters spend less time on admin — billing and visit logs handled automatically. |
+
+---
+
+## 💼 How I Work
+
+```
+1. Discovery & scope   →  Define MVP, success metrics, and milestones upfront
+2. Design → Build      →  Figma prototyping, SwiftUI-first iOS, React web admin
+3. Payments            →  Stripe + Apple Pay with server-side intent verification
+4. Real-time           →  Firestore snapshots, batched writes, offline-friendly patterns
+5. Delivery            →  CI pipelines, staging previews, tests, and clean handover docs
+```
+
+No scope creep, no ghost comms, no "I'll figure it out as I go." If something changes mid-project, I flag it early.
 
 ---
 
@@ -132,7 +157,6 @@ A polished browser-first casual game built for short, repeatable sessions and st
 - Feeding mechanics, fish AI (seek / wander), scoring & progression
 - Offline-first persistence (IndexedDB), PWA support
 - Optional leaderboards & analytics (opt-in)
-- Enterprise-ready: tests, CI, performance targets, accessibility
 
 **Tech:** TypeScript · HTML5 Canvas · Vite · IndexedDB
 
@@ -143,9 +167,7 @@ A polished browser-first casual game built for short, repeatable sessions and st
 <details>
 <summary><strong>🎓 PennState Card — PSU Student Card</strong></summary>
 
-A stylised digital student card UI for Penn State, built with pure CSS.
-
-**Tech:** CSS · HTML
+Stylised digital student card UI for Penn State, built in pure CSS.
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/psu-student-card) · [Repo →](https://github.com/KARIMDAVI/psu.student.card)
 
@@ -154,9 +176,7 @@ A stylised digital student card UI for Penn State, built with pure CSS.
 <details>
 <summary><strong>🔮 Magic Ball — 8-Ball Fortune Teller</strong></summary>
 
-A fun interactive Magic 8-Ball built for the browser.
-
-**Tech:** JavaScript · HTML · CSS
+Interactive Magic 8-Ball for the browser.
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/magic-ball)
 
@@ -167,8 +187,6 @@ A fun interactive Magic 8-Ball built for the browser.
 
 Clean, modern landing page for an iOS/Web dev agency.
 
-**Tech:** TypeScript · HTML · CSS
-
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/budgo) · [Repo →](https://github.com/KARIMDAVI/budgo.net)
 
 </details>
@@ -177,8 +195,6 @@ Clean, modern landing page for an iOS/Web dev agency.
 <summary><strong>👤 K!MO — Personal Brand Page</strong></summary>
 
 Minimal personal brand / profile page.
-
-**Tech:** HTML · CSS · JavaScript
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/kimo)
 
@@ -189,8 +205,6 @@ Minimal personal brand / profile page.
 
 Animated portal effect experiment built entirely in CSS/JS.
 
-**Tech:** HTML · CSS · JavaScript
-
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/portal-t-137)
 
 </details>
@@ -198,9 +212,7 @@ Animated portal effect experiment built entirely in CSS/JS.
 <details>
 <summary><strong>💻 Code Elements — UI Component Showcase</strong></summary>
 
-A collection of interactive UI/code design elements and experiments.
-
-**Tech:** HTML · CSS · JavaScript
+Interactive UI/code design elements and experiments.
 
 ▶ [Live demo on CodePen](https://codepen.io/KARIMDAVI/pen/code-elements) · [Repo →](https://github.com/KARIMDAVI/Creative-Web-Design)
 
@@ -209,36 +221,11 @@ A collection of interactive UI/code design elements and experiments.
 <details>
 <summary><strong>🌤️ Weather App — UI/UX Design</strong></summary>
 
-A polished weather application UI/UX concept.
-
-**Tech:** HTML · CSS
+Polished weather application UI/UX concept.
 
 ▶ [Repo →](https://github.com/KARIMDAVI/weatherappdesignuiux)
 
 </details>
-
----
-
-## 🔍 Case Study — SaviPets
-
-| | |
-|---|---|
-| **Problem** | Pet owners needed a trustworthy service with real-time sitter locations and instant receipts. |
-| **Approach** | Built a SwiftUI iOS app and a React web admin dashboard. Real-time updates via Firestore, visit tracking via CoreLocation, payments via Stripe & Apple Pay, photo reports per visit. |
-| **Outcome** | Improved client trust through live tracking and receipts; simplified operations for sitters via a focused dashboard and automated billing. |
-
----
-
-## 💼 How I Work (for clients)
-
-```
-1. Discovery & scope   →  Define MVP, success metrics, and milestones
-2. Design → Build      →  Figma prototyping, SwiftUI-first iOS, React web admin
-3. Secure Payments     →  Stripe + Apple Pay with server-side intent verification
-4. Real-time           →  Firestore snapshots, batched writes, offline-friendly patterns
-5. Delivery            →  CI pipelines, staging previews, tests, and clean handover docs
-```
-
 
 ---
 
@@ -262,12 +249,11 @@ A polished weather application UI/UX concept.
 1. Open `SaviPets.xcodeproj` in Xcode 14+.
 2. Add your sandbox `GoogleService-Info.plist` (Firebase dev config).
 3. Use a real device for Apple Pay / CoreLocation features.
-4. Press `Cmd + R` to build and run.
+4. Press `Cmd + R`.
 
 **Web (Admin dashboard)**
 
 ```bash
-# from repository root
 cd web-admin
 npm install
 # create .env.local with your Firebase config and API keys
@@ -284,6 +270,6 @@ npm run dev
 [![Upwork](https://img.shields.io/badge/Upwork-Book%20a%20Session-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01612c785de465d59d?mp_source=share)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ka.budgo.net-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://ka.budgo.net)
 
- ⚡
+⚡
 
 </div>
