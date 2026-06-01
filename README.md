@@ -75,21 +75,6 @@ I've built real-time GPS tracking for pet-sitters, payment flows that sail throu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KARIMDAVI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karim's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARIMDAVI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=KARIMDAVI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
